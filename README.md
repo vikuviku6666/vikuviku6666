@@ -1,8 +1,8 @@
 ### Hi there, I'm Vinay 👋
 
-Visit my Website[Portfolio](https://peaceful-bartik-166e4b.netlify.app/)
+Visit my Website [Portfolio](https://peaceful-bartik-166e4b.netlify.app/)!!
 
-## I'm a FullStack, FontEnd, Developer!!
+## I'm a FullStack, FontEnd, Developer
 
 - 🔭 I have deep knowledge of React js.
 - 🌱 I’m currently looking for new position.🤣
