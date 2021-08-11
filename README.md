@@ -7,7 +7,7 @@
 - 🔭 I have deep knowledge of React js.
 - 🌱 I’m currently looking for new position.🤣
 - 👯 I have passion for web development.
-- 🥅 I am also learning Could and devops.
+- 🥅 I am also learning cloud and devops.
 - ⚡ Like to explore new places.
 
 ### Connect with me:
@@ -42,7 +42,7 @@
 <br/>
 
 
---
+
 
 [website]: https://peaceful-bartik-166e4b.netlify.app/
 [twitter]: https://twitter.com/Vinaaayyku
