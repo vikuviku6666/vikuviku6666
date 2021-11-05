@@ -2,7 +2,7 @@
 
 Visit my Website [Portfolio](https://peaceful-bartik-166e4b.netlify.app/)!!
 
-## I'm a FullStack, FontEnd, Developer
+## I'm a FullStack, FrontEnd Developer
 
 - 🔭 I have deep knowledge of React js.
 - 🌱 I’m currently looking for new position.🤣
