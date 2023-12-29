@@ -4,10 +4,10 @@ Visit my Website [Portfolio](https://peaceful-bartik-166e4b.netlify.app/)!!
 
 ## I'm a FullStack, FrontEnd Developer
 
-- 🔭 I have deep knowledge of React js.
+- 🔭 I have deep knowledge of Typescript, Java, C#, Golang, Python.
 - 🌱 I’m currently looking for new position.🤣
 - 👯 I have passion for web development.
-- 🥅 I am also learning cloud and devops.
+- 🥅 I am also have experience with cloud and devops.
 - ⚡ Like to explore new places.
 
 ### Connect with me:
