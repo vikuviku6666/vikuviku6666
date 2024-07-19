@@ -2,7 +2,7 @@
 
 Visit my Website [Portfolio](https://peaceful-bartik-166e4b.netlify.app/)!!
 
-## I'm a Fullstack, Frontend Developer, Backend Developer
+## I'm a Fullstack, Frontend and Backend Developer
 
 - 🔭 I have deep knowledge of Typescript, Java, C#, Golang, and Python.
 - 🌱 I’m currently looking for a new position.🤣
