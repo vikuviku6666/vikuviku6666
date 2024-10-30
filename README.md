@@ -13,7 +13,6 @@ Visit my Website [Portfolio](https://peaceful-bartik-166e4b.netlify.app/)!!
 ### Connect with me:
 
 
-[<img align="left" alt="Vinay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Vinay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -45,6 +44,5 @@ Visit my Website [Portfolio](https://peaceful-bartik-166e4b.netlify.app/)!!
 
 
 [website]: https://peaceful-bartik-166e4b.netlify.app/
-[twitter]: https://twitter.com/Vinaaayyku
-[linkedin]: https://www.linkedin.com/in/vinay-k-47192a16a/
+[linkedin]: https://www.linkedin.com/in/vinay-kumar-6666viku/
 
